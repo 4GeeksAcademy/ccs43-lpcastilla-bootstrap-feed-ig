@@ -1,0 +1,16 @@
+
+}
+.card {
+    border-radius: 0;
+}
+.image img {
+    border-radius: 0;
+    object-fit: contain;
+}
+p {
+    font-size: 13px;
+}
+.header :last-child {
+    justify-content: end;
+}
+
